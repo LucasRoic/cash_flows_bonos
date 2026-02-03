@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+inputs/
+outputs/
+*.xlsx
+*.csv
+
+# IDE
+.idea/
+.spyproject/
+.vscode/
